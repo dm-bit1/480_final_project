@@ -1,0 +1,4 @@
+This folder contains screenshots of the Hospital database project.
+I encoded the screenshots, e.g. 1g for the GUI screenshot of command #1, 
+1k for a screenshot of the kernal message, 1w for a screenshot of Workbench
+when it updated following the command to show it worked correctly.
